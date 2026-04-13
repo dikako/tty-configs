@@ -1,0 +1,17 @@
+# Background transparency
+background = #000000
+background-opacity = 0.65
+background-blur = 20
+
+# Theme
+theme = Catppuccin Mocha
+
+# Font
+font-family = JetBrains Mono
+font-size = 14
+font-thicken = true
+
+# Window
+macos-titlebar-style = hidden
+window-padding-x = 12
+window-padding-y = 12
