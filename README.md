@@ -45,6 +45,8 @@ Git aliases:
 - `gb` - List branches
 - `gco` - Checkout branch
 - `gp` - Push to origin
+- `gshowh` - Show diff HEAD
+- `gshow` - Show diff specific commit hash
 - `gpull` - Pull from origin
 - `ai` - Quick access to Claude AI assistant
 
