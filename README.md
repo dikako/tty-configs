@@ -28,6 +28,7 @@ Navigation shortcuts:
 - `c` - Clear screen
 - `..` - Go up one directory
 - `...` - Go up two directories
+- `p` - Print current directory (`pwd`)
 
 Configuration shortcuts:
 

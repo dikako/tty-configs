@@ -39,6 +39,7 @@ alias restartpg="brew services restart postgresql@17"
 alias pg="psql postgres"
 alias pgstatus="pg_isready"
 alias sc="cat ~/.zshrc | grep 'alias'"
+alias p="pwd"             # Print current directory
 
 # ─────────────────────────────────────────
 # History (easier command search)
